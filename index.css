@@ -1,0 +1,27 @@
+* {
+	margin: 5;
+}
+
+body {
+	background-color: white;
+	font-family: proxima-nova, Microsoft JhengHei, 'Helvetica Neue', Arial;
+	font-size: 1.2rem;
+	margin: 24px;
+
+}
+
+.profile-pic {
+	border-radius: 100px;
+	height: 200px;
+	width: 200px;
+/*	float: bottom;*/
+	margin-left: 24px;
+}
+
+div {
+	margin-left: 20px;
+	margin-right: 200px;
+	border: solid 1px black;
+	margin-bottom: 12px;
+	padding: 12px;
+}
